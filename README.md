@@ -17,6 +17,10 @@ A robust backend API for a simulated real-time analytics service, featuring Redi
 ## Setup & Running
 
 1.  Clone the repository.
+
+    ```bash
+    git clone https://github.com/Vyshnavichakkapalli/Resilient-Analytics-API-with-Redis-Caching-Rate-Limiting-and-Circuit-Breaker
+    cd Resilient-Analytics-API-with-Redis-Caching-Rate-Limiting-and-Circuit-Breaker
 2.  Start the services using Docker Compose:
 
     ```bash
